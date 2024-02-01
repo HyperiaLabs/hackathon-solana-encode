@@ -1,0 +1,6 @@
+asyncio==3.4.3
+DateTime==5.2
+requests==2.31.0
+tqdm==4.66.1
+ratelimit
+aiohttp

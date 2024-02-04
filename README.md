@@ -9,11 +9,9 @@
   </p>
 
   <p>
-    <a href="#">Link 1 (Technical Paper data)</a>    
+    <a href="https://mathis-hyperia-labs.notion.site/Solana-x-Encode-Hackaton-Hyperia-Labs-2ca5f80b93f1402a8ab1244b53ad0541">Notion</a>   
     •
     <a href="https://youtu.be/ELASbgihVIQ">Youtube</a>    
-    •
-    <a href="https://mathis-hyperia-labs.notion.site/Solana-x-Encode-Hackaton-Hyperia-Labs-2ca5f80b93f1402a8ab1244b53ad0541">Notion</a>
   </p>
   
 </div>

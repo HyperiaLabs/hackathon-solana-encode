@@ -31,7 +31,7 @@ All of our content created for the hackathon can be accessed on [this Notion pag
 ## Where can I start reviewing this project?
 
 ### Getting data to train the IA
-To train our AI, we used data from all wallets have interraction with blockchain during XXX to XXX. This encompasses over XXX wallets, providing a comprehensive dataset for our advanced learning processes.
+To train our AI, we used data from all wallets that had interactions with the blockchain during September 1, 2023, to November 30, 2023 (3 months). This encompasses over XXX wallets, providing a comprehensive dataset for our advanced learning processes.
 
 All of the scripts used to get the data can be found in the [extract-data folder](https://github.com/HyperiaLabs/solana-hackathon-encode/tree/main/scripts/extract-data)
 
@@ -50,7 +50,7 @@ Little informations of the AI model. You can check the [AI model](https://github
   - [x] Add tagline
   - [x] Polishing the overview
   - [ ] Informations about the getting data
-    - [ ] Get start and end date of wallet extract
+    - [x] Get start and end date of wallet extract
     - [ ] Get number of wallets extract
   - [ ] Add link of the technical paper for the AI
   - [ ] Add link of the technical paper for the data

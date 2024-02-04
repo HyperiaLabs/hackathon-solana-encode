@@ -5,7 +5,7 @@
   <br>
   
   <p>
-     Tagline
+    A behavioral prediction tool based on on-chain activities, leveraging artificial intelligence.
   </p>
 
   <p>
@@ -49,7 +49,7 @@ Little informations of the AI model. You can check the [AI model](https://github
 - [ ] Add data scripts
 - [ ] Add AI scripts
 - [ ] Create the README.md
-  - [ ] Add tagline
+  - [x] Add tagline
   - [ ] Polishing the overview
   - [ ] Informations about the getting data
   - [ ] Add link of the technical paper for the AI

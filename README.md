@@ -44,8 +44,8 @@ Little informations of the AI model. You can check the [AI model](https://github
 
 # TODO
 - [x] Add the 3 scripts for getting the data
-- [ ] Add data scripts
-- [ ] Add AI scripts
+- [x] Add data scripts
+- [x] Add AI scripts
 - [ ] Create the README.md
   - [x] Add tagline
   - [x] Polishing the overview
@@ -57,3 +57,4 @@ Little informations of the AI model. You can check the [AI model](https://github
   - [ ] Add link 1 for technical paper data
   - [ ] Add link 2 for technical paper AI
   - [ ] Add more links ?
+- [ ] Remove TODO

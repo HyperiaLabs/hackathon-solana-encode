@@ -36,7 +36,7 @@ To train our AI, we used data from all wallets have interraction with blockchain
 All of the scripts used to get the data can be found in the [extract-data folder](https://github.com/HyperiaLabs/solana-hackathon-encode/tree/main/scripts/extract-data)
 
 ### Data
-Little informations of the data. You can check the [data](https://github.com/HyperiaLabs/solana-hackathon-encode/tree/main/scripts/data) and the [technical paper](#)
+Little informations of the data. You can check the [data](https://github.com/HyperiaLabs/solana-hackathon-encode/tree/main/scripts/data)
 
 ### AI Model
 Little informations of the AI model. You can check the [AI model](https://github.com/HyperiaLabs/solana-hackathon-encode/tree/main/scripts/ai) and the [technical paper](#)

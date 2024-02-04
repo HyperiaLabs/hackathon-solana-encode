@@ -12,6 +12,10 @@
     <a href="https://mathis-hyperia-labs.notion.site/Solana-x-Encode-Hackaton-Hyperia-Labs-2ca5f80b93f1402a8ab1244b53ad0541">Notion</a>   
     •
     <a href="https://youtu.be/ELASbgihVIQ">Youtube</a>    
+    •
+    <a href="https://youtu.be/ELASbgihVIQ](https://file.notion.so/f/f/0f9812f2-badf-4065-a87c-47e47dfb21a1/b9a6bb20-a5a7-4f60-9e80-c5b1850fd6ff/Wallet_Clustering_-_Technical_Paper.pdf?id=e8ddf03c-5566-41e1-a02e-6edd1be81c9b&table=block&spaceId=0f9812f2-badf-4065-a87c-47e47dfb21a1&expirationTimestamp=1707163200000&signature=WX590s0a620dgw25Hx4T5ezsO1YdH6l5-ACjkNpiifU&downloadName=Wallet+Clustering+-+Technical+Paper.pdf">Wallet Clustering - Technical Paper</a>    
+    •
+    <a href="https://file.notion.so/f/f/0f9812f2-badf-4065-a87c-47e47dfb21a1/fa113cde-adf4-4a2f-90c0-efbf86926623/Behavioral_Prediction_-_Technical_Paper.pdf?id=c98b730c-4a88-4243-b28e-89e64380cd3e&table=block&spaceId=0f9812f2-badf-4065-a87c-47e47dfb21a1&expirationTimestamp=1707163200000&signature=KN-BZiOtvDEXsCxVddMOgQW0mV0_7p-gRkn6Y1LXHUM&downloadName=Behavioral+Prediction+-+Technical+Paper.pdf">Behavioral Prediction - Technical Paper</a>    
   </p>
   
 </div>

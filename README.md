@@ -26,9 +26,9 @@ This is our participation in the [Solana x Encode Hackaton](https://www.encode.c
 
 ## Overview
 
-Hyperia Labs introduces its pioneering Behavioral Prediction Tool, a solution designed to decipher and anticipate the actions and trends within the blockchain space. By harnessing powerful AI algorithms like Deep Neural Network Analysis, this tool sifts through complex on-chain data to provide a holistic view of user behaviors and preferences. This multifaceted approach enables more accurate forecasting of market liquidity, user interaction trends, and the potential for fraudulent activities.
+Hyperia Labs presents an advanced Behavioral Prediction. Tool that employs Deep Learning, Deep Neural network and Blockchain analytics to provide predictive insights into user behaviors. By analyzing on-chain data, the tool can adeptly anticipates market trends and user behavior. This comprehensive tool not only deciphers current user interactions but also sets a new standard in forecasting future activities within the blockchain space, making it an indispensable asset for investors, project owners and analysts alike.
 
-All of our content created for the hackathon can be accessed on [this Notion page](https://mathis-hyperia-labs.notion.site/Solana-x-Encode-Hackaton-Hyperia-Labs-2ca5f80b93f1402a8ab1244b53ad0541), including videos, pitch decks, business cases, and more.
+All of our content created for the hackathon can be accessed on [this Notion page](https://mathis-hyperia-labs.notion.site/Solana-x-Encode-Hackaton-Hyperia-Labs-2ca5f80b93f1402a8ab1244b53ad0541), including videos, pitch decks, technical paper and more.
 
 ## Where can I start reviewing this project?
 
@@ -50,7 +50,7 @@ Little informations of the AI model. You can check the [AI model](https://github
 - [ ] Add AI scripts
 - [ ] Create the README.md
   - [x] Add tagline
-  - [ ] Polishing the overview
+  - [x] Polishing the overview
   - [ ] Informations about the getting data
   - [ ] Add link of the technical paper for the AI
   - [ ] Add link of the technical paper for the data

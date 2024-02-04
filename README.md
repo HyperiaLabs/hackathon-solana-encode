@@ -40,9 +40,9 @@ To train our AI, we used data from all wallets that had interactions with the bl
 All of the scripts used to get the data can be found in the [extract-data folder](https://github.com/HyperiaLabs/solana-hackathon-encode/tree/main/scripts/extract-data)
 
 ### Data
-Little informations of the data. You can check the [data](https://github.com/HyperiaLabs/solana-hackathon-encode/tree/main/scripts/data)
+Informations of the data. You can check the [data](https://github.com/HyperiaLabs/solana-hackathon-encode/tree/main/scripts/data)
 
 ### AI Model
-Little informations of the AI model. You can check the [AI model](https://github.com/HyperiaLabs/solana-hackathon-encode/tree/main/scripts/ai) and the technical papers :
+Informations about our AI models. You can check the [AI model](https://github.com/HyperiaLabs/solana-hackathon-encode/tree/main/scripts/ai) and the technical papers :
 - [Wallet Clustering](https://file.notion.so/f/f/0f9812f2-badf-4065-a87c-47e47dfb21a1/b9a6bb20-a5a7-4f60-9e80-c5b1850fd6ff/Wallet_Clustering_-_Technical_Paper.pdf?id=e8ddf03c-5566-41e1-a02e-6edd1be81c9b&table=block&spaceId=0f9812f2-badf-4065-a87c-47e47dfb21a1&expirationTimestamp=1707163200000&signature=WX590s0a620dgw25Hx4T5ezsO1YdH6l5-ACjkNpiifU&downloadName=Wallet+Clustering+-+Technical+Paper.pdf)
 - [Behavioral Prediction](https://file.notion.so/f/f/0f9812f2-badf-4065-a87c-47e47dfb21a1/fa113cde-adf4-4a2f-90c0-efbf86926623/Behavioral_Prediction_-_Technical_Paper.pdf?id=c98b730c-4a88-4243-b28e-89e64380cd3e&table=block&spaceId=0f9812f2-badf-4065-a87c-47e47dfb21a1&expirationTimestamp=1707163200000&signature=KN-BZiOtvDEXsCxVddMOgQW0mV0_7p-gRkn6Y1LXHUM&downloadName=Behavioral+Prediction+-+Technical+Paper.pdf)
